@@ -3,3 +3,5 @@ lundi 5 décembre :
 objectif : tentative de faire une régression linéaire sur la première action et de faire des statistiques sur les données
 
 Problèmes rencontrés : difficultés à ne prendre d'une seule colonne ce qui empêche de faire la régression. 
+
+Mardi 6 décembre :
