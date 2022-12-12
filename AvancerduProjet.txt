@@ -5,3 +5,10 @@ objectif : tentative de faire une régression linéaire sur la première action 
 Problèmes rencontrés : difficultés à ne prendre d'une seule colonne ce qui empêche de faire la régression. 
 
 Mardi 6 décembre :
+
+
+
+=> Sur les actions axa 
+
+Antoine = regréssion linéaire, nuage de point et graphique
+=> implementer le modèle de black scholes
