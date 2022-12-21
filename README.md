@@ -10,9 +10,15 @@ Les algorithmes de machine learning prédiraient-ils mieux le cours des actions 
 # Récapitulatif des notebooks présent sur notre Github
 
 
-Regression_sur_une_action : Une modélisation sur un premier jeu de donnée pour s'entraîner à bien manier scikit-learn
-ProjetPython : début du projet sur une base de donnée Excel
-Projet_alternatif : début du code sur la base de donnée Excel, on s'inspira beaucoup de cela pour le reste du projet
-ajustements : partie du code pour la partie finale
-ModificationAntoine : début du code pour la première partie du projet python
-Projet_Python_version_final : notre notebook final
+- __Regression_sur_une_action__ : Une modélisation sur un premier jeu de donnée pour s'entraîner à bien manier scikit-learn
+
+- __ProjetPython__ : début du projet sur une base de donnée Excel
+
+- __Projet_alternatif__ : début du code sur la base de donnée Excel, on s'inspira beaucoup de cela pour le reste du projet
+
+- __ajustements__ : partie du code pour la partie finale
+
+- __ModificationAntoine__ : début du code pour la première partie du projet python
+
+- __Projet_Python_version_final__ : notre notebook final
+
